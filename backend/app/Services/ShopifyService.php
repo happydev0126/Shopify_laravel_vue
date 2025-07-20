@@ -3,8 +3,10 @@
 namespace App\Services;
 
 use GuzzleHttp\Client;
+use App\Services\ShopifyServiceInterface;
 
-class ShopifyService
+
+class ShopifyService implements ShopifyServiceInterface
 {
     protected $client;
     protected $shop;
@@ -24,7 +26,7 @@ class ShopifyService
         ]);
     }
 
-    public function getProducts()
+    public function getProducts(): array
     {
         $response = $this->client->get('products.json');
         return json_decode($response->getBody()->getContents(), true);
