@@ -1,0 +1,11 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Variant SKU,Variant Grams,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src
+sample-tshirt,Sample T-Shirt,"<p>A comfortable and stylish t-shirt.</p>",Acme,Shirts,"tshirt,clothing",TRUE,Size,M,SHT-M-001,200,100,deny,manual,19.99,TRUE,TRUE,1234567890123,https://cdn.shopify.com/s/files/sample1.jpg
+sample-tshirt,,,"",,,"",Size,L,SHT-L-001,220,50,deny,manual,19.99,TRUE,TRUE,1234567890124,
+sample-mug,Sample Mug,"<p>Ceramic coffee mug with logo.</p>",Acme,Mugs,"mug,coffee",TRUE,Size,One Size,MUG-001,350,200,deny,manual,9.99,TRUE,TRUE,2234567890123,https://cdn.shopify.com/s/files/sample2.jpg
+sample-hoodie,Sample Hoodie,"<p>Warm and cozy hoodie with front pocket.</p>",Acme,Hoodies,"hoodie,clothing,winter",TRUE,Size,S,HOOD-S-001,600,30,deny,manual,39.99,TRUE,TRUE,3234567890123,https://cdn.shopify.com/s/files/sample3.jpg
+sample-hoodie,,,"",,,"",Size,M,HOOD-M-001,650,40,deny,manual,39.99,TRUE,TRUE,3234567890124,
+sample-cap,Sample Cap,"<p>Adjustable baseball cap with embroidered logo.</p>",Acme,Accessories,"cap,hat",TRUE,Size,One Size,CAP-001,150,120,deny,manual,14.99,TRUE,TRUE,4234567890123,https://cdn.shopify.com/s/files/sample4.jpg
+sample-notebook,Sample Notebook,"<p>100-page lined notebook with hard cover.</p>",Acme,Stationery,"notebook,office",TRUE,Size,A5,NOTE-A5-001,400,300,deny,manual,7.99,TRUE,TRUE,5234567890123,https://cdn.shopify.com/s/files/sample5.jpg
+sample-backpack,Sample Backpack,"<p>Durable backpack with multiple compartments.</p>",Acme,Bags,"backpack,travel",TRUE,Size,Standard,BACKP-001,900,80,deny,manual,49.99,TRUE,TRUE,6234567890123,https://cdn.shopify.com/s/files/sample6.jpg
+sample-keychain,Sample Keychain,"<p>Metal keychain with engraved logo.</p>",Acme,Accessories,"keychain,gift",TRUE,Size,One Size,KEY-001,50,500,deny,manual,4.99,TRUE,TRUE,7234567890123,https://cdn.shopify.com/s/files/sample7.jpg
+sample-waterbottle,Sample Water Bottle,"<p>Reusable stainless steel water bottle.</p>",Acme,Accessories,"waterbottle,eco",TRUE,Size,750ml,WATER-750-001,500,150,deny,manual,17.99,TRUE,TRUE,8234567890123,https://cdn.shopify.com/s/files/sample8.jpg
