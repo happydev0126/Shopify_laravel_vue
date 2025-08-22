@@ -1,4 +1,4 @@
-# Hello Geronimo Shopify Laravel + Vue Assessment
+# Shopify Laravel + Vue Assessment
 
 ## Overview
 This project demonstrates a simple product sync between a Laravel backend and a Vue.js frontend, using Docker for local development. It showcases clean code, SOLID principles, API integration, and event-driven logic in Laravel, as well as basic reactivity and UI in Vue.
